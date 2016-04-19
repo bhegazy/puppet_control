@@ -25,4 +25,6 @@ mod "wdijkerman/zabbix", "1.7.0"
 
 mod "acidprime/r10k",
 :git => "https://github.com/acidprime/r10k"
+mod "bhegazy/testapp",
+:git => "git@github.com:bhegazy/testpp.git"
 
