@@ -1,6 +1,6 @@
 forge "https://forge.puppetlabs.com/"
 mod 'puppetlabs/ntp'
-mod 'puppetlabs/vsphere'
+mod 'puppetlabs/vsphere' "1.2.0"
 mod "puppetlabs/stdlib", "4.5.1" 
 mod "puppetlabs/concat", "1.2.0" 
 mod "puppetlabs/ntp", "3.3.0" 
